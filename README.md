@@ -72,4 +72,4 @@ attribution is given to:
 - **Billy Coleman III**, **prodbybuddha.world.id**, and  
 - The original academic source cited above where applicable.
 
-See the full license text in the [LICENSE](LICENSE) file.
+See the full license text in the [LICENSE](LICENSE.md) file.
