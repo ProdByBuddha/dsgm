@@ -1,0 +1,11 @@
+Ahmed Shalaby,
+Digital Sustainable Growth Model (DSGM): Achieving synergy between economy and technology to mitigate AGI risks and address global debt challenges,
+Journal of Economy and Technology,
+Volume 3,
+2025,
+Pages 314-332,
+ISSN 2949-9488,
+https://doi.org/10.1016/j.ject.2024.08.003.
+(https://www.sciencedirect.com/science/article/pii/S2949948824000350)
+Abstract: The emergence of Artificial General Intelligence (AGI) as Artificial Humanity (AH) marks a crucial turning point in human history, influencing both the digital economy and sustainable development. AGI has the potential to either drive unprecedented progress or threaten sustainability. This perspective study critiques existing capitalist systems and proposes a shift towards sustainable digital strategies to address the uncertain future role of AGI. It aims to encourage further research and collaboration for a smooth transition to a society that integrates AGI, highlighting AGI's potential to contribute to sustainable development. The study employs a multi-step methodology, including interviews with AI models such as ChatGPT-4 and Gemini, validation of insights, and comparisons with expert reports. It introduces the Digital Sustainable Growth Model (DSGM) as a framework for harmonizing humanity with AH, providing new opportunities for growth and ethical governance. The DSGM addresses both human vulnerabilities and AH’s potential. Additionally, the study highlights the BankRabbna application as an innovative digital tool, intended to be the first of its kind—a global company primarily owned by people worldwide. Its main function is to automate AI regulation, ensuring AGI safety while also tackling global debt.
+Keywords: Digital Sustainable Growth Model (DSGM); Artificial Humanity (AH); BankRabbna; Ethical AI Development; Global debt; Sustainable economic growth
