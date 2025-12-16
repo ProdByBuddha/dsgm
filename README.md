@@ -1,7 +1,8 @@
 ## 📌 Canonical Authorship & Provenance
 
 **Digital Sustainable Growth Model (DSGM) v1.0**  
-**Author:** `prodbybuddha.world.id` (ENS) — Buddha  
+**Author:** `Billy Coleman III (prodbybuddha.world.id)`
+ 
 **Repository:** https://github.com/ProdByBuddha/dsgm
 
 This repository contains the **canonical source artifacts** for the Digital
@@ -60,7 +61,7 @@ terminology, and documentation in this repository are authored by
 
 ## 📄 License
 
-© 2025 Buddha (`prodbybuddha.world.id`)
+© 2025 Billy Coleman III (`prodbybuddha.world.id`)
 
 This repository is licensed under the  
 **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
@@ -68,7 +69,7 @@ This repository is licensed under the
 You are free to share and adapt this material for any purpose, provided proper
 attribution is given to:
 
-- **prodbybuddha.world.id**, and  
+- **Billy Coleman III**, **prodbybuddha.world.id**, and  
 - The original academic source cited above where applicable.
 
 See the full license text in the [LICENSE](LICENSE) file.
