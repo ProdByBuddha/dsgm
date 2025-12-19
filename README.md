@@ -67,19 +67,24 @@ anchoring authorship, priority, and document integrity on the Bitcoin blockchain
 #### 2. Condensed / Simplified Edition
 
 - **Description:** Simplified and accessible presentation of the DSGM framework  
+- **Document File:**  
+  `Digital_Sustainable_Growth_Model_Simplified_v1.0.pdf` (281.8 kB)  
 - **Document SHA-256 Digest:**  
   `a74e30c02f42023e40105612ceef1bf82fc7858929c654d961da885950d2afca`  
 - **OpenTimestamps Proof:**  
   `Digital_Sustainable_Growth_Model_Simplified_v1.0.pdf.ots`  
 - **Timestamp Status:**  
-  OpenTimestamps proof submitted; Bitcoin calendar attestation pending
+  ✅ **Bitcoin-attested**
 
----
+- **Bitcoin Block:**  
+  `928091`  
+- **Earliest Verifiable Existence:**  
+  **2025-12-15 (PST)**
 
-Each OpenTimestamps proof cryptographically demonstrates that the corresponding
-document existed in **that exact form** at the time of submission. Upon
-finalization, proofs will reference specific Bitcoin blocks and transactions,
-permanently anchoring priority and authorship.
+This attestation cryptographically proves that the Condensed / Simplified Edition
+existed in **this exact form** no later than Bitcoin block **928091**, providing a
+permanent, public, and independently verifiable record of authorship and
+document integrity.
 
 ---
 
