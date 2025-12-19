@@ -1,3 +1,31 @@
+# Digital Sustainable Growth Model (DSGM)
+
+The **Digital Sustainable Growth Model (DSGM)** is a systems-level economic framework designed for a world in which **artificial intelligence becomes the dominant agent of value creation** and traditional human labor is no longer the primary driver of income, productivity, or growth.
+
+At its core, DSGM addresses a looming structural failure in modern economies:  
+most fiscal, legal, and social institutions assume that *humans earn wages*, *wages are taxed*, and *taxes fund public goods*. As automation and AI erode labor’s role, that assumption breaks—placing governments, markets, and social stability at risk.
+
+DSGM proposes a new foundation.
+
+Rather than centering economic rights and growth on employment, the model introduces mechanisms for:
+
+- **Decoupling income from labor** without collapsing incentives or markets  
+- **Redirecting AI-generated value** into sustainable public and human benefit  
+- **Preserving human economic agency** in a post-labor environment  
+- **Maintaining fiscal solvency** when machines, not people, produce the surplus  
+
+The model reframes artificial intelligence not merely as a productivity tool, but as a **new class of economic actor** whose output must be governed, allocated, and reinvested with the same seriousness once reserved for labor and capital.
+
+DSGM is intended for policymakers, economists, technologists, researchers, and institutions grappling with questions such as:
+
+- What happens when employment is no longer the primary income mechanism?  
+- How do societies fund public goods when labor tax bases erode?  
+- How can AI-driven growth be made broadly sustainable rather than extractive?  
+- What economic rights do humans retain in an AI-dominant economy?  
+
+This repository serves as the **canonical source of record** for the Digital Sustainable Growth Model, including formally timestamped editions, cryptographic proofs of authorship, and supporting artifacts.
+
+
 ## 📌 Canonical Authorship & Provenance
 
 **Digital Sustainable Growth Model (DSGM) v1.0**  
