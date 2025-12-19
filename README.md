@@ -44,12 +44,23 @@ editions, each independently fingerprinted and timestamped.
 #### 1. Full Dissertation Edition
 
 - **Description:** Complete academic dissertation and formal framework  
+- **Document File:**  
+  `Digital_Sustainable_Growth_Model_v1.0.pdf` (17.9 MB)  
 - **Document SHA-256 Digest:**  
   `079e46b13eedb44f95e3eb1696b600763c217a1ff1c1b4f87fe9ecd662baaadd`  
 - **OpenTimestamps Proof:**  
   `Digital_Sustainable_Growth_Model_v1.0.pdf.ots`  
 - **Timestamp Status:**  
-  OpenTimestamps proof submitted; Bitcoin calendar attestation pending
+  ✅ **Bitcoin-attested**
+
+- **Bitcoin Block:**  
+  `928091`  
+- **Earliest Verifiable Existence:**  
+  **2025-12-15 (PST)**
+
+This attestation cryptographically proves that the Full Dissertation Edition
+existed in **this exact form** no later than Bitcoin block **928091**, permanently
+anchoring authorship, priority, and document integrity on the Bitcoin blockchain.
 
 ---
 
